@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Summer's blog
 subtitle:
 description:
-author: John Doe
-language:
+author: summer
+language: zh-CN
 timezone:
 
 # URL
@@ -68,4 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:summer2013/summer2013.github.io.git
+  branch: master
