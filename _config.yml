@@ -71,3 +71,6 @@ deploy:
   type: git
   repo: git@github.com:summer2013/summer2013.github.io.git
   branch: master
+
+# comments
+disqus_shortname: summer2013githubio
